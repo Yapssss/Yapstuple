@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Github
 - 🌱 I’m currently learning Python
 - 💬 Ask me about Machine Learning and AI
-- 📫 How to reach me: [[Link LinkedIn/Email](https://www.tiktok.com/@yapstuple)]
+- 📫 How to reach me: [[Tiktok(https://www.tiktok.com/@yapstuple)]
 
 ### 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

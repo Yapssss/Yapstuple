@@ -18,4 +18,4 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### 📊 GitHub Stats
-![Statistik GitHub Yapstuple](https://github-readme-stats.vercel.app/api?username=Yapstuple&show_icons=true&theme=radical)
+![Statistik GitHub Yapstuple](https://github-readme-stats.vercel.app/api?username=Yapssss&show_icons=true&theme=radical)
